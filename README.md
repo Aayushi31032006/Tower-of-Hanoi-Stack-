@@ -18,7 +18,8 @@ This is a visual and interactive representation of the **Tower of Hanoi** puzzle
 
 ## 🖼️ Preview
 
-![Tower of Hanoi Animation Screenshot](#) *("C:\Users\Aayu's Lenovo\Downloads\tower-of-hanoi-1.png")*
+<img width="651" height="376" alt="tower-of-hanoi-1" src="https://github.com/user-attachments/assets/70276ec0-5107-4b99-a78f-91f5506e60cb" />
+
 
 ## 📁 File Structure
 
